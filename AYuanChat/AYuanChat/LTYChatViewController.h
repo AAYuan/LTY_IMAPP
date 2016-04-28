@@ -2,8 +2,8 @@
 //  LTYChatViewController.h
 //  AYuanChat
 //
-//  Created by ayuan on 15/9/25.
-//  Copyright © 2015年 AYuan. All rights reserved.
+//  Created by ayuan on 16/4/27.
+//  Copyright © 2016年 AYuan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

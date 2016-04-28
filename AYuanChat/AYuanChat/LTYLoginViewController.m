@@ -3,7 +3,7 @@
 //  LTY1chat
 //
 //  Created by ayuan on 15/9/24.
-//  Copyright (c) 2015年 AYuan. All rights reserved.
+//  Copyright (c) 2016年 AYuan. All rights reserved.
 //
 
 #import "LTYLoginViewController.h"
