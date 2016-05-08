@@ -140,8 +140,7 @@
     cell.message = message;
     
     return cell;
-    
-    
+        
 }
 
 
