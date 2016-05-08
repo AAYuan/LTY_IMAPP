@@ -225,8 +225,7 @@
 #pragma mark 接收好友回复消息
 -(void)didReceiveMessage:(EMMessage *)message{
 #warning from 一定等于当前聊天用户才可以刷新数据
-    //test1 - test7
-    //test1 - test8
+
     if ([message.from isEqualToString:self.buddy.username]) {
         //1.把接收的消息添加到数据源
         [self.dataSources addObject:message];
